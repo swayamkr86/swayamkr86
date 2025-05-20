@@ -1,6 +1,10 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Swayam</h1>
 <h3 align="center">"A passionate developer crafting meaningful software and exploring new technologies."</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamkr86&label=Profile%20views&color=0e75b6&style=flat" alt="swayamkr86" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swayamkr86" alt="swayamkr86" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Cloud Computing**
@@ -10,6 +14,8 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **swayamkumar86@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10Ot2kNKl9gCakXl_akLpUZZy4YMvHU_9/view?usp=drivesdk](https://drive.google.com/file/d/10Ot2kNKl9gCakXl_akLpUZZy4YMvHU_9/view?usp=drivesdk)
 
 - ⚡ Fun fact **I use dark mode even during the day. Light mode hurts my soul. 🌚**
 
